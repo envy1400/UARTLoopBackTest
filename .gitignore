@@ -1,3 +1,12 @@
 
 *.o
 *.d
+UARTLoopBackTest.X/nbproject/Makefile-default.mk
+UARTLoopBackTest.X/dist/default/production/UARTLoopBackTest.X.production.map
+UARTLoopBackTest.X/dist/default/production/UARTLoopBackTest.X.production.hex
+UARTLoopBackTest.X/dist/default/production/UARTLoopBackTest.X.production.elf
+UARTLoopBackTest.X/dist/default/production/memoryfile.xml
+UARTLoopBackTest.X/dist/default/debug/UARTLoopBackTest.X.debug.map
+UARTLoopBackTest.X/dist/default/debug/UARTLoopBackTest.X.debug.elf
+UARTLoopBackTest.X/dist/default/debug/memoryfile.xml
+UARTLoopBackTest.X/nbproject/Makefile-default.mk
